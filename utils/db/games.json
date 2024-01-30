@@ -1,0 +1,25 @@
+{
+	"games": [
+		{
+			"title": "Spiritfarer",
+			"genre": ["Cozy", "Story Rich", "Emotional"],
+			"link": "https://store.steampowered.com/app/972660/Spiritfarer_Farewell_Edition/",
+			"image-link": "https://cdn.cloudflare.steamstatic.com/steam/apps/972660/header.jpg?t=1683305962",
+			"comments": "made me bawl like a baby."
+		},
+		{
+			"title": "FEZ",
+			"genre": ["Puzzle Platformer"],
+			"link": "https://store.steampowered.com/app/224760/FEZ/",
+			"image-link": "https://cdn.cloudflare.steamstatic.com/steam/apps/224760/header.jpg?t=1572375251",
+			"comments": "incredibly detailed, challenging, and visually stunning!"
+		},
+		{
+			"title": "Teamfight Tactics",
+			"genre": ["Autochess"],
+			"link": "https://teamfighttactics.leagueoflegends.com/en-us/",
+			"image-link": "https://m.media-amazon.com/images/M/MV5BZWVlMDAxMjUtMWYwYS00MGU4LTgxYWEtZGE2NjZiMTU3YjRmXkEyXkFqcGdeQXVyNjU1OTg4OTM@._V1_FMjpg_UX1000_.jpg",
+			"comments": "i am, admittedly..... addicted......."
+		}
+	]
+}

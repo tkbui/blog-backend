@@ -1,0 +1,31 @@
+{
+	"songs": [
+		{
+			"title": "For Lovers",
+			"artist": "Lamp",
+			"album": "For Lovers",
+			"album-image-link": "https://f4.bcbits.com/img/0032363830_71.jpg",
+			"genre": ["Japanese Indie", "Folk"],
+			"link": "https://open.spotify.com/track/6BGNjTZ8zp9MlsIydBa7A9?si=7c3e8ad6bbc645ce",
+			"comments": "an all-time fave. so peaceful. ethereal. life is good."
+		},
+		{
+			"title": "Welcome Change",
+			"artist": "Phum Viphurit",
+			"album": "The Greng Jai Piece",
+			"album-image-link": "https://www.nme.com/wp-content/uploads/2022/11/phum-viphurit-the-greng-jai-piece@1400x1400.jpg",
+			"genre": ["Thai Indie"],
+			"link": "https://open.spotify.com/track/5ua4QkJQDqWjfsbJDNCC1X?si=0f9533f000014282",
+			"comments": "beautiful and an epic closing song to the 9/16/23 concert!"
+		},
+		{
+			"title": "Seishun Sick",
+			"artist": "Fujii Kaze",
+			"album": "Seishun Sick (Single)",
+			"album-image-link": "https://i.scdn.co/image/ab67616d0000b2733b2a1e511d29ff2e084ef2e5",
+			"genre": ["J-Pop"],
+			"link": "https://open.spotify.com/track/4EwKtJQT2ZHKzECGH3EjLx?si=60fd85855b0a4acf",
+			"comments": "awesome lyrics! not gonna lie, they made me cry. youth and growing up is beautiful and bittersweet."
+		}
+	]
+}
